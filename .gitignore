@@ -1,0 +1,7 @@
+/.venv
+/config.py
+/proxy-list.txt
+/req.txt
+/sku.xlsx
+/top_sells.xlsx
+/__pycache__
